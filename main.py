@@ -36,3 +36,4 @@ time.sleep(5)
 driver.quit()
 
 # проект работает
+print('2 commit end')
